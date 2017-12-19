@@ -2,6 +2,7 @@
 #include<string>
 #include<stack>
 #include<algorithm>
+#include<hash>
 using namespace std;
 stack <char> p;
 
