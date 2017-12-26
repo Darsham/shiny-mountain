@@ -28,7 +28,7 @@ public:
              }
              if(fast - slow + 1 < minLength){
                  minLength = fast - slow + 1;
-                 result = S.substr(slow, minLength);
+                 result = S.substr(slow, minLength);                 
                 }
             }
         }
